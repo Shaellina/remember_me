@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @spot.name %>
+</p>
+
+<p>
+  <strong>Destination:</strong>
+  <%= @spot.destination %>
+</p>
+
+<p>
+  <strong>Start:</strong>
+  <%= @spot.start %>
+</p>
+
+<p>
+  <strong>End:</strong>
+  <%= @spot.end %>
+</p>
+
+<p>
+  <strong>Day:</strong>
+  <%= @spot.day %>
+</p>
+
+<%= link_to 'Edit', edit_spot_path(@spot) %> |
+<%= link_to 'Back', spots_path %>

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  region: MyString
+  start: 2017-11-30 20:07:02
+  end: 2017-11-30 20:07:02
+  user_id: 
+
+two:
+  title: MyString
+  region: MyString
+  start: 2017-11-30 20:07:02
+  end: 2017-11-30 20:07:02
+  user_id: 

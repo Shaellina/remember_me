@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  destination: MyString
+  start: 2017-11-30 20:10:38
+  end: 2017-11-30 20:10:38
+  day_id: 
+
+two:
+  name: MyString
+  destination: MyString
+  start: 2017-11-30 20:10:38
+  end: 2017-11-30 20:10:38
+  day_id: 

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  alias: MyString
+  place: MyString
+  trip_id: 
+
+two:
+  alias: MyString
+  place: MyString
+  trip_id: 
